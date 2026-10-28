@@ -1,3 +1,10 @@
+# Moved
+
+This demo now lives at **https://github.com/ytimocin/fleet-examples/tree/main/kargo**.
+This repository is archived and kept only so old links keep working.
+
+---
+
 # Kargo + KubeFleet Cross-Fleet Playground
 
 Demo: **Kargo orchestrating promotions across multiple independent KubeFleet fleets.**
